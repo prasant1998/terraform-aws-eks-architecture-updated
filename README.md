@@ -3,6 +3,8 @@
 
 The Directory Structure would look like this.
 
+
+
 terraform-eks/
 ├── modules/
 │   ├── vpc/
@@ -36,3 +38,4 @@ terraform-eks/
 ├── backend.tf
 ├── terraform.tfvars
 └── README.md
+
